@@ -9,7 +9,7 @@ Windows 7 Professional 64-bit
  [Beckhoff CB4060](http://download.beckhoff.com/download/Document/Catalog/Main_Catalog/english/separate-pages/Embedded_PC/CB4060.pdf)
  
  
- Singleboard with [i7-4770eq processor](http://ark.intel.com/products/75469/Intel-Core-i7-4700EQ-Processor-6M-Cache-up-to-3_40-GHz) (64-bit) and  1 PCIex16 slot for framegrabber (width of x4), integrated graphics
+ Singleboard with [i7-4770eq processor](http://ark.intel.com/products/75469/Intel-Core-i7-4700EQ-Processor-6M-Cache-up-to-3_40-GHz) (64-bit) and  1 PCIex16 slot for framegrabber (width of x4), integrated graphics, 12 USB ports, 2 RS232 ports
  
  
 ### Frame Grabber
@@ -30,3 +30,8 @@ Windows 7 Professional 64-bit
 [Link to datasheet](http://www.virtium.com/datasheet/VL47D1G63D-K0-K9-F8S.pdf)
 
 
+### Notes
+
+No additional USB controllers/other special controllers seen
+
+24V, 4.2A PSU manufactured by Elpac Electronics
