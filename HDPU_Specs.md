@@ -5,7 +5,7 @@
  [Beckhoff CB4060](http://download.beckhoff.com/download/Document/Catalog/Main_Catalog/english/separate-pages/Embedded_PC/CB4060.pdf)
  
  
- Singleboard with i7 processor and 4xPCIe slots for framegrabber
+ Singleboard with i7 processor (64-bit) and 4xPCIe slots for framegrabber
  
  
 ### Frame Grabber
