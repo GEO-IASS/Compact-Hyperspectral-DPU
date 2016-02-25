@@ -1,5 +1,9 @@
 # Headwall HDPU Specs
 
+### Operating system
+
+Windows 7 Professional 64-bit
+
 ### Motherboard
 
  [Beckhoff CB4060](http://download.beckhoff.com/download/Document/Catalog/Main_Catalog/english/separate-pages/Embedded_PC/CB4060.pdf)
